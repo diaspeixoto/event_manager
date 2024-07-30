@@ -1,15 +1,16 @@
 {
-    "Date": "2018-09-06",
+    "event_id": 80,
+    "Date": "2018-09-04",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Pinnacle Bank Arena",
-    "Location": "Lincoln,Nebraska,United States",
-    "Latitude": "40.8088861",
-    "Longitude": "-96.7077751",
+    "Venue": "Target Center",
+    "Location": "Minneapolis,Minnesota,United States",
+    "Latitude": "44.9772995",
+    "Longitude": "-93.2654692",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Jim Breuer,Joe Sibb",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-09-06-lincoln-nebraska.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-09-04-minneapolis-minnesota.html",
     "Songs": "nan"
 }

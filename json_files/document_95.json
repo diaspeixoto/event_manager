@@ -1,15 +1,16 @@
 {
-    "Date": "2018-11-03",
+    "event_id": 95,
+    "Date": "2018-10-29",
     "main_attraction": "Metallica",
-    "Event": "The All Within My Hands Helping Hands Concert & Auction",
-    "Venue": "The Masonic",
-    "Location": "San Francisco,California,United States",
-    "Latitude": "37.7792588",
-    "Longitude": "-122.4193286",
+    "Event": "nan",
+    "Venue": "Times Union Center",
+    "Location": "Albany,New York,United States",
+    "Latitude": "42.6511674",
+    "Longitude": "-73.754968",
     "Is_cancelled": "No",
-    "Tour": "nan",
-    "Other_acts": "Cage the Elephant",
+    "Tour": "WorldWired",
+    "Other_acts": "Jim Breuer,Joe Sibb",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-11-03-san-francisco-california.html",
-    "Songs": "Disposable Heroes, When a Blind Man Cries, The Unforgiven, Please Don't Judas Me, Turn the Page, Bleeding Me, Veteran of the Psychic Wars, Nothing Else Matters, All Within My Hands, Enter Sandman, The Four Horsemen, Hardwired"
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-10-29-albany-new-york.html",
+    "Songs": "nan"
 }

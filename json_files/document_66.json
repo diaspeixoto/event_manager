@@ -1,15 +1,16 @@
 {
-    "Date": "2018-04-07",
+    "event_id": 66,
+    "Date": "2018-04-05",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Hanns-Martin-Schleyer-Halle",
-    "Location": "Stuttgart,Germany",
-    "Latitude": "48.7784485",
-    "Longitude": "9.1800132",
+    "Venue": "Papp L\u00e1szl\u00f3 Sportar\u00e9na",
+    "Location": "Budapest,Hungary",
+    "Latitude": "47.48138955",
+    "Longitude": "19.14609412691246",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Kvelertak",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-04-07-stuttgart-germany.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-04-05-budapest-hungary.html",
     "Songs": "nan"
 }

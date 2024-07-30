@@ -1,15 +1,16 @@
 {
-    "Date": "2019-06-08",
+    "event_id": 126,
+    "Date": "2019-06-04",
     "main_attraction": "Metallica",
-    "Event": "nan",
-    "Venue": "Slane Castle",
-    "Location": "Meath,Ireland",
-    "Latitude": "53.6497514",
-    "Longitude": "-6.5885310235914645",
+    "Event": "NBA Finals",
+    "Venue": "Oracle Arena",
+    "Location": "Oakland,California,United States",
+    "Latitude": "37.8044557",
+    "Longitude": "-122.271356",
     "Is_cancelled": "No",
-    "Tour": "WorldWired",
-    "Other_acts": "Ghost",
+    "Tour": "nan",
+    "Other_acts": "nan",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-06-08-meath-ireland.html",
-    "Songs": "nan"
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-06-04-oakland-california.html",
+    "Songs": "The Star-Spangled Banner"
 }

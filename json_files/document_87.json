@@ -1,5 +1,6 @@
 {
-    "Date": "2018-10-13",
+    "event_id": 87,
+    "Date": "2018-10-06",
     "main_attraction": "Metallica",
     "Event": "Austin City Limits",
     "Venue": "Zilker Park",
@@ -10,6 +11,6 @@
     "Tour": "WorldWired",
     "Other_acts": "nan",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-10-13-austin-texas.html",
-    "Songs": "Hardwired, Creeping Death, Seek & Destroy, Wherever I May Roam, The Unforgiven, Now That We're Dead, For Whom the Bell Tolls, Halo On Fire, The Memory Remains, Moth Into Flame, Sad But True, One, Master of Puppets, Blackened, Nothing Else Matters, Enter Sandman"
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-10-06-austin-texas.html",
+    "Songs": "Hardwired, Atlas, Rise!, Seek & Destroy, Creeping Death, Welcome Home (Sanitarium), Now That We're Dead, For Whom the Bell Tolls, Fade to Black, Fuel, Moth Into Flame, Sad But True, One, Master of Puppets, Battery, Nothing Else Matters, Enter Sandman"
 }

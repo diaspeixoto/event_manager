@@ -1,5 +1,6 @@
 {
-    "Date": "2020-05-17",
+    "event_id": 160,
+    "Date": "2020-05-15",
     "main_attraction": "Metallica",
     "Event": "Sonic Temple Art + Music Festival",
     "Venue": "MAPFRE Stadium",
@@ -10,6 +11,6 @@
     "Tour": "nan",
     "Other_acts": "nan",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2020-05-17-columbus-ohio.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2020-05-15-columbus-ohio.html",
     "Songs": "nan"
 }

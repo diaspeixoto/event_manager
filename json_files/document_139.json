@@ -1,15 +1,16 @@
 {
-    "Date": "2019-08-14",
+    "event_id": 139,
+    "Date": "2019-07-21",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Arena Nat\u0326ionala\u0306",
-    "Location": "Bucharest,Romania",
-    "Latitude": "44.4361414",
-    "Longitude": "26.1027202",
+    "Venue": "Luzhniki Stadium",
+    "Location": "Moscow,Russia",
+    "Latitude": "55.625578",
+    "Longitude": "37.6063916",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Ghost,Bokassa",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-08-14-bucharest-romania.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-07-21-moscow-russia.html",
     "Songs": "nan"
 }

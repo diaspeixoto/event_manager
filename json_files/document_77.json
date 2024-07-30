@@ -1,5 +1,6 @@
 {
-    "Date": "2018-05-11",
+    "event_id": 77,
+    "Date": "2018-05-09",
     "main_attraction": "Metallica",
     "Event": "nan",
     "Venue": "Hartwall Arena",
@@ -10,6 +11,6 @@
     "Tour": "WorldWired",
     "Other_acts": "Kvelertak",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-05-11-helsinki-finland.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-05-09-helsinki-finland.html",
     "Songs": "nan"
 }

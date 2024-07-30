@@ -1,15 +1,16 @@
 {
-    "Date": "2019-07-18",
+    "event_id": 137,
+    "Date": "2019-07-16",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Raadi Airfield",
-    "Location": "Tartu,Estonia",
-    "Latitude": "58.3801207",
-    "Longitude": "26.72245",
+    "Venue": "Kantolan Tapahtumapuisto",
+    "Location": "Ha\u0308meenlinna,Finland",
+    "Latitude": "60.9948584",
+    "Longitude": "24.46654",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Ghost,Bokassa",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-07-18-tartu-estonia.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-07-16-hameenlinna-finland.html",
     "Songs": "nan"
 }

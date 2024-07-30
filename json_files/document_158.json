@@ -1,5 +1,6 @@
 {
-    "Date": "2020-05-10",
+    "event_id": 158,
+    "Date": "2020-05-08",
     "main_attraction": "Metallica",
     "Event": "Welcome to Rockville",
     "Venue": "Daytona International Speedway",
@@ -10,6 +11,6 @@
     "Tour": "nan",
     "Other_acts": "nan",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2020-05-10-daytona-beach-florida.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2020-05-08-daytona-beach-florida.html",
     "Songs": "nan"
 }

@@ -1,15 +1,16 @@
 {
-    "Date": "2023-04-27",
+    "event_id": 221,
+    "Date": "2023-04-18",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Johan Cruijff Arena",
+    "Venue": "Ready Set Studios",
     "Location": "Amsterdam,Netherlands",
     "Latitude": "52.3730796",
     "Longitude": "4.8924534",
     "Is_cancelled": "No",
-    "Tour": "M72 World Tour",
-    "Other_acts": "Architects,Mammoth WVH",
+    "Tour": "nan",
+    "Other_acts": "nan",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2023-04-27-amsterdam-netherlands.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2023-04-18-amsterdam-netherlands.html",
     "Songs": "nan"
 }

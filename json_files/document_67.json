@@ -1,5 +1,6 @@
 {
-    "Date": "2018-04-09",
+    "event_id": 67,
+    "Date": "2018-04-07",
     "main_attraction": "Metallica",
     "Event": "nan",
     "Venue": "Hanns-Martin-Schleyer-Halle",
@@ -10,6 +11,6 @@
     "Tour": "WorldWired",
     "Other_acts": "Kvelertak",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-04-09-stuttgart-germany.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-04-07-stuttgart-germany.html",
     "Songs": "nan"
 }

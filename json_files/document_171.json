@@ -1,15 +1,16 @@
 {
-    "Date": "2020-12-14",
+    "event_id": 171,
+    "Date": "2020-12-07",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Estacionamento da Fiergs",
-    "Location": "Porto Alegre,Brazil",
-    "Latitude": "-30.0324999",
-    "Longitude": "-51.2303767",
+    "Venue": "Est\u00e1dio Nacional do Jamor",
+    "Location": "Santiago,Chile",
+    "Latitude": "-33.4377756",
+    "Longitude": "-70.6504502",
     "Is_cancelled": "Yes",
     "Tour": "nan",
     "Other_acts": "nan",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2020-12-14-porto-alegre-brazil.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2020-12-07-santiago-chile.html",
     "Songs": "nan"
 }

@@ -1,5 +1,6 @@
 {
-    "Date": "2019-11-02",
+    "event_id": 154,
+    "Date": "2019-10-31",
     "main_attraction": "Metallica",
     "Event": "nan",
     "Venue": "Mt. Smart Stadium",
@@ -10,6 +11,6 @@
     "Tour": "WorldWired",
     "Other_acts": "Slipknot",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-11-02-auckland-new-zealand.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-10-31-auckland-new-zealand.html",
     "Songs": "nan"
 }

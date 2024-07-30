@@ -1,15 +1,16 @@
 {
-    "Date": "2021-11-12",
+    "event_id": 187,
+    "Date": "2021-11-06",
     "main_attraction": "Metallica",
-    "Event": "Welcome to Rockville",
-    "Venue": "Daytona International Speedway",
-    "Location": "Daytona Beach,Florida,United States",
-    "Latitude": "29.2108147",
-    "Longitude": "-81.0228331",
+    "Event": "ATLive",
+    "Venue": "Mercedes-Benz Stadium",
+    "Location": "Atlanta,Georgia,United States",
+    "Latitude": "33.7489924",
+    "Longitude": "-84.3902644",
     "Is_cancelled": "No",
     "Tour": "nan",
-    "Other_acts": "nan",
+    "Other_acts": "Cage the Elephant,Greta Van Fleet",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2021-11-12-daytona-beach-florida.html",
-    "Songs": "Whiplash, Ride the Lightning, Harvester of Sorrow, Cyanide, The Memory Remains, One, Frantic, Moth Into Flame, No Leaf Clover, For Whom the Bell Tolls, Whiskey in the Jar, Fade to Black, Master of Puppets, Fight Fire with Fire, Fuel, Seek & Destroy"
+    "Concert_profile_link": "https://www.metallica.com/tour/2021-11-06-atlanta-georgia.html",
+    "Songs": "Whiplash, Ride the Lightning, The Memory Remains, Seek & Destroy, Holier Than Thou, One, Sad But True, Moth Into Flame, No Leaf Clover, For Whom the Bell Tolls, Fuel, Fade to Black, Master of Puppets, Blackened, Nothing Else Matters, Enter Sandman"
 }

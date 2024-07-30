@@ -1,15 +1,16 @@
 {
-    "Date": "2018-04-11",
+    "event_id": 68,
+    "Date": "2018-04-09",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Palexpo",
-    "Location": "Geneva,Switzerland",
-    "Latitude": "46.2017559",
-    "Longitude": "6.1466014",
+    "Venue": "Hanns-Martin-Schleyer-Halle",
+    "Location": "Stuttgart,Germany",
+    "Latitude": "48.7784485",
+    "Longitude": "9.1800132",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Kvelertak",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-04-11-geneva-switzerland.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-04-09-stuttgart-germany.html",
     "Songs": "nan"
 }

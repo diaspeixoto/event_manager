@@ -1,15 +1,16 @@
 {
-    "Date": "2019-03-06",
+    "event_id": 114,
+    "Date": "2019-03-04",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Sprint Center",
-    "Location": "Kansas City,Missouri,United States",
-    "Latitude": "39.100105",
-    "Longitude": "-94.5781416",
+    "Venue": "INTRUST Bank Arena",
+    "Location": "Wichita,Kansas,United States",
+    "Latitude": "37.6922361",
+    "Longitude": "-97.3375448",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Jim Breuer,Joe Sibb",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-03-06-kansas-city-missouri.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-03-04-wichita-kansas.html",
     "Songs": "nan"
 }

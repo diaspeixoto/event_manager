@@ -1,15 +1,16 @@
 {
-    "Date": "2023-04-29",
+    "event_id": 222,
+    "Date": "2023-04-27",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Johan Cruijff ArenA",
+    "Venue": "Johan Cruijff Arena",
     "Location": "Amsterdam,Netherlands",
     "Latitude": "52.3730796",
     "Longitude": "4.8924534",
     "Is_cancelled": "No",
     "Tour": "M72 World Tour",
-    "Other_acts": "Floor Jansen,Ice Nine Kills",
+    "Other_acts": "Architects,Mammoth WVH",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2023-04-29-amsterdam-netherlands.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2023-04-27-amsterdam-netherlands.html",
     "Songs": "nan"
 }

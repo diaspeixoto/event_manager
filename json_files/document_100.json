@@ -1,15 +1,16 @@
 {
-    "Date": "2018-12-05",
+    "event_id": 100,
+    "Date": "2018-12-02",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Moda Center",
-    "Location": "Portland,Oregon,United States",
-    "Latitude": "45.5202471",
-    "Longitude": "-122.674194",
+    "Venue": "Spokane Arena",
+    "Location": "Spokane,Washington,United States",
+    "Latitude": "47.6571934",
+    "Longitude": "-117.42351",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Jim Breuer,Joe Sibb",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-12-05-portland-oregon.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-12-02-spokane-washington.html",
     "Songs": "nan"
 }

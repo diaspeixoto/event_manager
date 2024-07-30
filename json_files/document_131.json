@@ -1,15 +1,16 @@
 {
-    "Date": "2019-06-20",
+    "event_id": 131,
+    "Date": "2019-06-18",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Twickenham Stadium",
-    "Location": "London,England",
-    "Latitude": "51.5074456",
-    "Longitude": "-0.1277653",
+    "Venue": "Etihad Stadium",
+    "Location": "Manchester,England",
+    "Latitude": "53.4794892",
+    "Longitude": "-2.2451148",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Ghost,Bokassa",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-06-20-london-england.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-06-18-manchester-england.html",
     "Songs": "nan"
 }

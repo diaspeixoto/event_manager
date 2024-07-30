@@ -1,15 +1,16 @@
 {
-    "Date": "2022-05-24",
+    "event_id": 199,
+    "Date": "2022-05-12",
     "main_attraction": "Metallica",
-    "Event": "Metallica Night with the San Francisco Giants",
-    "Venue": "Oracle Park",
-    "Location": "San Francisco,California,United States",
-    "Latitude": "37.7792588",
-    "Longitude": "-122.4193286",
+    "Event": "nan",
+    "Venue": "Mineir\u00e3o",
+    "Location": "Belo Horizonte,Brazil",
+    "Latitude": "-19.9227318",
+    "Longitude": "-43.9450948",
     "Is_cancelled": "No",
     "Tour": "nan",
-    "Other_acts": "nan",
+    "Other_acts": "Greta Van Fleet,Ego Kill Talent",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2022-05-24-san-francisco-california.html",
-    "Songs": "The Star-Spangled Banner"
+    "Concert_profile_link": "https://www.metallica.com/tour/2022-05-12-belo-horizonte-brazil.html",
+    "Songs": "nan"
 }

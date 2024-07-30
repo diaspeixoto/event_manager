@@ -1,15 +1,16 @@
 {
-    "Date": "2022-07-06",
+    "event_id": 211,
+    "Date": "2022-07-03",
     "main_attraction": "Metallica",
-    "Event": "Mad Cool Festival",
-    "Venue": "IFEMA",
-    "Location": "Madrid,Spain",
-    "Latitude": "40.4167047",
-    "Longitude": "-3.7035825",
+    "Event": "Bilbao Bizkaia Rock Day",
+    "Venue": "Estadio San Mam\u00e9s",
+    "Location": "Bilbao,Spain",
+    "Latitude": "43.2630018",
+    "Longitude": "-2.9350039",
     "Is_cancelled": "No",
     "Tour": "nan",
     "Other_acts": "nan",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2022-07-06-madrid-spain.html",
-    "Songs": "Whiplash, Creeping Death, Enter Sandman, Ride the Lightning, Wherever I May Roam, Nothing Else Matters, Dirty Window, Sad But True, Whiskey in the Jar, For Whom the Bell Tolls, Moth Into Flame, Fade to Black, Seek & Destroy, Damage, Inc., One, Master of Puppets"
+    "Concert_profile_link": "https://www.metallica.com/tour/2022-07-03-bilbao-spain.html",
+    "Songs": "Whiplash, Creeping Death, Enter Sandman, Harvester of Sorrow, Wherever I May Roam, No Leaf Clover, Sad But True, Dirty Window, Nothing Else Matters, For Whom the Bell Tolls, Moth Into Flame, Welcome Home (Sanitarium), Seek & Destroy, Metal Militia, One, Master of Puppets"
 }
