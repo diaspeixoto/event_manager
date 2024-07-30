@@ -1,15 +1,16 @@
 {
-    "Date": "2019-01-24",
+    "event_id": 107,
+    "Date": "2019-01-22",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Bridgestone Arena",
-    "Location": "Nashville,Tennessee,United States",
-    "Latitude": "36.1622767",
-    "Longitude": "-86.7742984",
+    "Venue": "Legacy Arena at the BJCC",
+    "Location": "Birmingham,Alabama,United States",
+    "Latitude": "33.5206824",
+    "Longitude": "-86.8024326",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Jim Breuer,Joe Sibb",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-01-24-nashville-tennessee.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-01-22-birmingham-alabama.html",
     "Songs": "nan"
 }

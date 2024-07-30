@@ -1,15 +1,16 @@
 {
-    "Date": "2018-10-29",
+    "event_id": 94,
+    "Date": "2018-10-27",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Times Union Center",
-    "Location": "Albany,New York,United States",
-    "Latitude": "42.6511674",
-    "Longitude": "-73.754968",
+    "Venue": "KeyBank Center",
+    "Location": "Buffalo,New York,United States",
+    "Latitude": "42.8867166",
+    "Longitude": "-78.8783922",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Jim Breuer,Joe Sibb",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-10-29-albany-new-york.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-10-27-buffalo-new-york.html",
     "Songs": "nan"
 }

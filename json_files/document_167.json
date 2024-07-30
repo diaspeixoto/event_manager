@@ -1,5 +1,6 @@
 {
-    "Date": "2020-10-11",
+    "event_id": 167,
+    "Date": "2020-10-09",
     "main_attraction": "Metallica",
     "Event": "Aftershock",
     "Venue": "Discovery Park",
@@ -10,6 +11,6 @@
     "Tour": "nan",
     "Other_acts": "nan",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2020-10-11-sacramento-california.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2020-10-09-sacramento-california.html",
     "Songs": "nan"
 }

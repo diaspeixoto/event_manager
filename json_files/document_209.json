@@ -1,15 +1,16 @@
 {
-    "Date": "2022-07-01",
+    "event_id": 209,
+    "Date": "2022-06-29",
     "main_attraction": "Metallica",
-    "Event": "Rock Werchter",
-    "Venue": "Festivalpark",
-    "Location": "Werchter,Belgium",
-    "Latitude": "50.970584",
-    "Longitude": "4.6937963",
-    "Is_cancelled": "No",
+    "Event": "Frauenfeld Rocks",
+    "Venue": "Grosse Allmend Frauenfeld",
+    "Location": "Frauenfeld,Switzerland",
+    "Latitude": "47.5561915",
+    "Longitude": "8.8963347",
+    "Is_cancelled": "Yes",
     "Tour": "nan",
     "Other_acts": "nan",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2022-07-01-werchter-belgium.html",
-    "Songs": "Whiplash, Creeping Death, Enter Sandman, Ride the Lightning, No Leaf Clover, Wherever I May Roam, Sad But True, Dirty Window, Nothing Else Matters, For Whom the Bell Tolls, Moth Into Flame, Welcome Home (Sanitarium), Seek & Destroy, Damage, Inc., One, Master of Puppets"
+    "Concert_profile_link": "https://www.metallica.com/tour/2022-06-29-frauenfeld-switzerland.html",
+    "Songs": "nan"
 }

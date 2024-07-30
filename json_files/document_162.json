@@ -1,15 +1,16 @@
 {
-    "Date": "2020-08-12",
+    "event_id": 162,
+    "Date": "2020-08-10",
     "main_attraction": "Metallica",
-    "Event": "The Howard Stern Show",
-    "Venue": "HQ",
-    "Location": "San Rafael,California,United States",
-    "Latitude": "37.9747795",
-    "Longitude": "-122.5316686",
+    "Event": "nan",
+    "Venue": "Gundlach Bundschu",
+    "Location": "Sonoma,California,United States",
+    "Latitude": "38.5110803",
+    "Longitude": "-122.8473388",
     "Is_cancelled": "No",
     "Tour": "nan",
     "Other_acts": "nan",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2020-08-12-san-rafael-california.html",
-    "Songs": "Wherever I May Roam, The Unforgiven, All Within My Hands"
+    "Concert_profile_link": "https://www.metallica.com/tour/2020-08-10-sonoma-california.html",
+    "Songs": "nan"
 }

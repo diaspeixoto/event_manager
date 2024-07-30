@@ -1,15 +1,16 @@
 {
-    "Date": "2019-03-09",
+    "event_id": 115,
+    "Date": "2019-03-06",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "KFC Yum! Center",
-    "Location": "Louisville,Kentucky,United States",
-    "Latitude": "38.2542376",
-    "Longitude": "-85.759407",
+    "Venue": "Sprint Center",
+    "Location": "Kansas City,Missouri,United States",
+    "Latitude": "39.100105",
+    "Longitude": "-94.5781416",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Jim Breuer,Joe Sibb",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-03-09-louisville-kentucky.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-03-06-kansas-city-missouri.html",
     "Songs": "nan"
 }

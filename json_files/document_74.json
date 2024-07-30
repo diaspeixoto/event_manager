@@ -1,15 +1,16 @@
 {
-    "Date": "2018-05-05",
+    "event_id": 74,
+    "Date": "2018-05-02",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Ericsson Globe",
-    "Location": "Stockholm,Sweden",
-    "Latitude": "59.3251172",
-    "Longitude": "18.0710935",
+    "Venue": "Telenor Arena",
+    "Location": "Oslo,Norway",
+    "Latitude": "59.9133301",
+    "Longitude": "10.7389701",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Kvelertak",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-05-05-stockholm-sweden.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-05-02-oslo-norway.html",
     "Songs": "nan"
 }

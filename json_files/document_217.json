@@ -1,15 +1,16 @@
 {
-    "Date": "2022-11-06",
+    "event_id": 217,
+    "Date": "2022-09-24",
     "main_attraction": "Metallica",
-    "Event": "nan",
-    "Venue": "Hard Rock Live at Seminole Hard Rock Hotel & Casino",
-    "Location": "Hollywood,Florida,United States",
-    "Latitude": "26.0112014",
-    "Longitude": "-80.1494901",
+    "Event": "Global Citizen Festival",
+    "Venue": "Great Lawn in Central Park",
+    "Location": "New York,New York,United States",
+    "Latitude": "40.7127281",
+    "Longitude": "-74.0060152",
     "Is_cancelled": "No",
     "Tour": "nan",
-    "Other_acts": "Raven",
+    "Other_acts": "Charlie Puth,Jonas Brothers,M\u00c5NESKIN,Mariah Carey,Mickey Guyton,Rosal\u00eda",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2022-11-06-hollywood-florida.html",
-    "Songs": "nan"
+    "Concert_profile_link": "https://www.metallica.com/tour/2022-09-24-new-york-new-york.html",
+    "Songs": "Creeping Death, For Whom the Bell Tolls, Enter Sandman, Sad But True, The Unforgiven, Wherever I May Roam, Nothing Else Matters, Master of Puppets"
 }

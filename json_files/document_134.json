@@ -1,15 +1,16 @@
 {
-    "Date": "2019-07-11",
+    "event_id": 134,
+    "Date": "2019-07-09",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Telia Parken",
-    "Location": "Copenhagen,Denmark",
-    "Latitude": "55.6867243",
-    "Longitude": "12.5700724",
+    "Venue": "Ullevi Stadium",
+    "Location": "Gothenburg,Sweden",
+    "Latitude": "57.7072326",
+    "Longitude": "11.9670171",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Ghost,Bokassa",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-07-11-copenhagen-denmark.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-07-09-gothenburg-sweden.html",
     "Songs": "nan"
 }

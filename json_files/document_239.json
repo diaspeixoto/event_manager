@@ -1,15 +1,16 @@
 {
-    "Date": "2023-09-01",
+    "event_id": 239,
+    "Date": "2023-08-27",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "State Farm Stadium",
-    "Location": "Phoenix,Arizona,United States",
-    "Latitude": "33.4484367",
-    "Longitude": "-112.074141",
+    "Venue": "SoFi Stadium",
+    "Location": "Los Angeles,California,United States",
+    "Latitude": "34.0536909",
+    "Longitude": "-118.242766",
     "Is_cancelled": "No",
     "Tour": "M72 World Tour",
-    "Other_acts": "Pantera,Mammoth WVH",
+    "Other_acts": "Five Finger Death Punch,Ice Nine Kills",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2023-09-01-phoenix-arizona.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2023-08-27-los-angeles-california.html",
     "Songs": "nan"
 }

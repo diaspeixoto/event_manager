@@ -1,15 +1,16 @@
 {
-    "Date": "2019-07-06",
+    "event_id": 132,
+    "Date": "2019-06-20",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Olympiastadion",
-    "Location": "Berlin,Germany",
-    "Latitude": "52.5170365",
-    "Longitude": "13.3888599",
+    "Venue": "Twickenham Stadium",
+    "Location": "London,England",
+    "Latitude": "51.5074456",
+    "Longitude": "-0.1277653",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Ghost,Bokassa",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-07-06-berlin-germany.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-06-20-london-england.html",
     "Songs": "nan"
 }

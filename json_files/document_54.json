@@ -1,15 +1,16 @@
 {
-    "Date": "2018-02-03",
+    "event_id": 54,
+    "Date": "2018-02-01",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "WiZink Center",
-    "Location": "Madrid,Spain",
-    "Latitude": "40.4167047",
-    "Longitude": "-3.7035825",
+    "Venue": "Altice Arena",
+    "Location": "Lisbon,Portugal",
+    "Latitude": "38.7077507",
+    "Longitude": "-9.1365919",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Kvelertak",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-02-03-madrid-spain.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-02-01-lisbon-portugal.html",
     "Songs": "nan"
 }

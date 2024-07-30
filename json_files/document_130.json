@@ -1,15 +1,16 @@
 {
-    "Date": "2019-06-18",
+    "event_id": 130,
+    "Date": "2019-06-16",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Etihad Stadium",
-    "Location": "Manchester,England",
-    "Latitude": "53.4794892",
-    "Longitude": "-2.2451148",
+    "Venue": "Koning Boudewijnstadion",
+    "Location": "Brussels,Belgium",
+    "Latitude": "50.8550018",
+    "Longitude": "4.3512333761166175",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Ghost,Bokassa",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-06-18-manchester-england.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-06-16-brussels-belgium.html",
     "Songs": "nan"
 }

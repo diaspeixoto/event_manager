@@ -1,15 +1,16 @@
 {
-    "Date": "2022-04-30",
+    "event_id": 194,
+    "Date": "2022-04-27",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Campo Argentino de Polo",
-    "Location": "Buenos Aires,Argentina",
-    "Latitude": "-34.6037181",
-    "Longitude": "-58.38153",
+    "Venue": "Club H\u00edpico",
+    "Location": "Santiago,Chile",
+    "Latitude": "-33.4377756",
+    "Longitude": "-70.6504502",
     "Is_cancelled": "No",
     "Tour": "nan",
-    "Other_acts": "Greta Van Fleet,Marina Fages",
+    "Other_acts": "Greta Van Fleet,Yajaira",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2022-04-30-buenos-aires-argentina.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2022-04-27-santiago-chile.html",
     "Songs": "nan"
 }

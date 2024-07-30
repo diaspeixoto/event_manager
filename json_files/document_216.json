@@ -1,15 +1,16 @@
 {
-    "Date": "2022-09-24",
+    "event_id": 216,
+    "Date": "2022-08-14",
     "main_attraction": "Metallica",
-    "Event": "Global Citizen Festival",
-    "Venue": "Great Lawn in Central Park",
-    "Location": "New York,New York,United States",
-    "Latitude": "40.7127281",
-    "Longitude": "-74.0060152",
+    "Event": "nan",
+    "Venue": "PNC Park",
+    "Location": "Pittsburgh,Pennsylvania,United States",
+    "Latitude": "40.4416941",
+    "Longitude": "-79.9900861",
     "Is_cancelled": "No",
     "Tour": "nan",
-    "Other_acts": "Charlie Puth,Jonas Brothers,M\u00c5NESKIN,Mariah Carey,Mickey Guyton,Rosal\u00eda",
+    "Other_acts": "Greta Van Fleet,Ice Nine Kills",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2022-09-24-new-york-new-york.html",
-    "Songs": "Creeping Death, For Whom the Bell Tolls, Enter Sandman, Sad But True, The Unforgiven, Wherever I May Roam, Nothing Else Matters, Master of Puppets"
+    "Concert_profile_link": "https://www.metallica.com/tour/2022-08-14-pittsburgh-pennsylvania.html",
+    "Songs": "nan"
 }

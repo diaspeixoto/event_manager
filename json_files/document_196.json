@@ -1,15 +1,16 @@
 {
-    "Date": "2022-05-07",
+    "event_id": 196,
+    "Date": "2022-05-05",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Est\u00e1dio Couto Pereira",
-    "Location": "Curitiba,Brazil",
-    "Latitude": "-25.4295963",
-    "Longitude": "-49.2712724",
+    "Venue": "Estacionamento da FIERGS",
+    "Location": "Porto Alegre,Brazil",
+    "Latitude": "-30.0324999",
+    "Longitude": "-51.2303767",
     "Is_cancelled": "No",
     "Tour": "nan",
     "Other_acts": "Greta Van Fleet,Ego Kill Talent",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2022-05-07-curitiba-brazil.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2022-05-05-porto-alegre-brazil.html",
     "Songs": "nan"
 }

@@ -1,15 +1,16 @@
 {
-    "Date": "2018-05-02",
+    "event_id": 73,
+    "Date": "2018-04-30",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Telenor Arena",
-    "Location": "Oslo,Norway",
-    "Latitude": "59.9133301",
-    "Longitude": "10.7389701",
+    "Venue": "Arena Leipzig",
+    "Location": "Leipzig,Germany",
+    "Latitude": "51.3406321",
+    "Longitude": "12.3747329",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Kvelertak",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-05-02-oslo-norway.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-04-30-leipzig-germany.html",
     "Songs": "nan"
 }

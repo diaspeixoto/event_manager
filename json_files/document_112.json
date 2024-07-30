@@ -1,15 +1,16 @@
 {
-    "Date": "2019-03-02",
+    "event_id": 112,
+    "Date": "2019-02-28",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "United Supermarkets Arena",
-    "Location": "Lubbock,Texas,United States",
-    "Latitude": "33.5855677",
-    "Longitude": "-101.8470215",
+    "Venue": "Don Haskins Center",
+    "Location": "El Paso,Texas,United States",
+    "Latitude": "31.7550511",
+    "Longitude": "-106.488234",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Jim Breuer,Joe Sibb",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-03-02-lubbock-texas.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-02-28-el-paso-texas.html",
     "Songs": "nan"
 }

@@ -1,15 +1,16 @@
 {
-    "Date": "2021-11-27",
+    "event_id": 189,
+    "Date": "2021-11-14",
     "main_attraction": "Metallica",
-    "Event": "Triller Fight Club",
-    "Venue": "Globe Life Field",
-    "Location": "Arlington,Texas,United States",
-    "Latitude": "32.7355816",
-    "Longitude": "-97.1071186",
+    "Event": "Welcome to Rockville",
+    "Venue": "Daytona International Speedway",
+    "Location": "Daytona Beach,Florida,United States",
+    "Latitude": "29.2108147",
+    "Longitude": "-81.0228331",
     "Is_cancelled": "No",
     "Tour": "nan",
     "Other_acts": "nan",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2021-11-27-arlington-texas.html",
-    "Songs": "Fuel, Ride the Lightning, Master of Puppets, Nothing Else Matters, Enter Sandman, Whiplash, The Memory Remains, Wherever I May Roam, Sad But True, Creeping Death, The Unforgiven, For Whom the Bell Tolls, Whiskey in the Jar, Fade to Black, Battery, Seek & Destroy"
+    "Concert_profile_link": "https://www.metallica.com/tour/2021-11-14-daytona-beach-florida.html",
+    "Songs": "Hardwired, The Four Horsemen, Welcome Home (Sanitarium), The Struggle Within, My Friend of Misery, The God That Failed, Of Wolf and Man, Nothing Else Matters, Through the Never, Don't Tread On Me, Wherever I May Roam, The Unforgiven, Holier Than Thou, Sad But True, Enter Sandman, Damage, Inc., Creeping Death"
 }

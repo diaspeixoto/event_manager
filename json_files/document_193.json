@@ -1,15 +1,16 @@
 {
-    "Date": "2022-04-27",
+    "event_id": 193,
+    "Date": "2022-02-25",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Club H\u00edpico",
-    "Location": "Santiago,Chile",
-    "Latitude": "-33.4377756",
-    "Longitude": "-70.6504502",
+    "Venue": "Allegiant Stadium",
+    "Location": "Las Vegas,Nevada,United States",
+    "Latitude": "36.1672559",
+    "Longitude": "-115.148516",
     "Is_cancelled": "No",
     "Tour": "nan",
-    "Other_acts": "Greta Van Fleet,Yajaira",
+    "Other_acts": "Greta Van Fleet,Ice Nine Kills",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2022-04-27-santiago-chile.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2022-02-25-las-vegas-nevada.html",
     "Songs": "nan"
 }

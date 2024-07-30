@@ -1,15 +1,16 @@
 {
-    "Date": "2019-01-18",
+    "event_id": 104,
+    "Date": "2019-01-16",
     "main_attraction": "Metallica",
-    "Event": "nan",
-    "Venue": "BOK Center",
-    "Location": "Tulsa,Oklahoma,United States",
-    "Latitude": "36.1563122",
-    "Longitude": "-95.9927516",
+    "Event": "I Am the Highway: A Tribute to Chris Cornell",
+    "Venue": "The Forum",
+    "Location": "Los Angeles,California,United States",
+    "Latitude": "34.0536909",
+    "Longitude": "-118.242766",
     "Is_cancelled": "No",
-    "Tour": "WorldWired",
-    "Other_acts": "Jim Breuer,Joe Sibb",
+    "Tour": "nan",
+    "Other_acts": "Soundgarden,Audioslave,Temple of the Dog,Foo Fighters,Melvins",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-01-18-tulsa-oklahoma.html",
-    "Songs": "nan"
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-01-16-los-angeles-california.html",
+    "Songs": "All Your Lies, For Whom the Bell Tolls, Master of Puppets, Head Injury"
 }

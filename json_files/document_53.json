@@ -1,15 +1,11 @@
 {
-    "Date": "2018-02-01",
-    "main_attraction": "Metallica",
-    "Event": "nan",
-    "Venue": "Altice Arena",
-    "Location": "Lisbon,Portugal",
-    "Latitude": "38.7077507",
-    "Longitude": "-9.1365919",
-    "Is_cancelled": "No",
-    "Tour": "WorldWired",
-    "Other_acts": "Kvelertak",
-    "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-02-01-lisbon-portugal.html",
-    "Songs": "nan"
+    "event_id": 53,
+    "main_attraction": "Taylor Swift",
+    "City": "Tokyo",
+    "Country": "Japan",
+    "Venue": "Tokyo Dome",
+    "Opening act(s)": "Charli XCX",
+    "Attendance (tickets sold / available)": "100,109 / 100,109",
+    "Revenue": "$14,859,847",
+    "Tour": "Reputation_Stadium_Tour"
 }

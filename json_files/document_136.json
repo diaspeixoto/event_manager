@@ -1,15 +1,16 @@
 {
-    "Date": "2019-07-16",
+    "event_id": 136,
+    "Date": "2019-07-13",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Kantolan Tapahtumapuisto",
-    "Location": "Ha\u0308meenlinna,Finland",
-    "Latitude": "60.9948584",
-    "Longitude": "24.46654",
+    "Venue": "Gran\u00e5sen",
+    "Location": "Trondheim,Norway",
+    "Latitude": "63.4304475",
+    "Longitude": "10.3952118",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Ghost,Bokassa",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2019-07-16-hameenlinna-finland.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2019-07-13-trondheim-norway.html",
     "Songs": "nan"
 }

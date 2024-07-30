@@ -1,15 +1,16 @@
 {
-    "Date": "2018-11-26",
+    "event_id": 96,
+    "Date": "2018-11-03",
     "main_attraction": "Metallica",
-    "Event": "nan",
-    "Venue": "T-Mobile Arena",
-    "Location": "Las Vegas,Nevada,United States",
-    "Latitude": "36.1672559",
-    "Longitude": "-115.148516",
+    "Event": "The All Within My Hands Helping Hands Concert & Auction",
+    "Venue": "The Masonic",
+    "Location": "San Francisco,California,United States",
+    "Latitude": "37.7792588",
+    "Longitude": "-122.4193286",
     "Is_cancelled": "No",
-    "Tour": "WorldWired",
-    "Other_acts": "Jim Breuer,Joe Sibb",
+    "Tour": "nan",
+    "Other_acts": "Cage the Elephant",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-11-26-las-vegas-nevada.html",
-    "Songs": "nan"
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-11-03-san-francisco-california.html",
+    "Songs": "Disposable Heroes, When a Blind Man Cries, The Unforgiven, Please Don't Judas Me, Turn the Page, Bleeding Me, Veteran of the Psychic Wars, Nothing Else Matters, All Within My Hands, Enter Sandman, The Four Horsemen, Hardwired"
 }

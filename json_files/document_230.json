@@ -1,5 +1,6 @@
 {
-    "Date": "2023-06-18",
+    "event_id": 230,
+    "Date": "2023-06-16",
     "main_attraction": "Metallica",
     "Event": "nan",
     "Venue": "Ullevi Stadium",
@@ -8,8 +9,8 @@
     "Longitude": "11.9670171",
     "Is_cancelled": "No",
     "Tour": "M72 World Tour",
-    "Other_acts": "Epica,Ice Nine Kills",
+    "Other_acts": "Volbeat,Mammoth WVH",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2023-06-18-gothenburg-sweden.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2023-06-16-gothenburg-sweden.html",
     "Songs": "nan"
 }

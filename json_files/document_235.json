@@ -1,15 +1,16 @@
 {
-    "Date": "2023-08-18",
+    "event_id": 235,
+    "Date": "2023-08-13",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "AT&T Stadium",
-    "Location": "Arlington,Texas,United States",
-    "Latitude": "32.7355816",
-    "Longitude": "-97.1071186",
+    "Venue": "Stade Olympique",
+    "Location": "Montreal,Quebec,Canada",
+    "Latitude": "45.5031824",
+    "Longitude": "-73.5698065",
     "Is_cancelled": "No",
     "Tour": "M72 World Tour",
-    "Other_acts": "Pantera,Mammoth WVH",
+    "Other_acts": "Five Finger Death Punch,Ice Nine Kills",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2023-08-18-arlington-texas.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2023-08-13-montreal-canada.html",
     "Songs": "nan"
 }

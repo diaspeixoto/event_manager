@@ -1,15 +1,16 @@
 {
-    "Date": "2018-02-10",
+    "event_id": 57,
+    "Date": "2018-02-07",
     "main_attraction": "Metallica",
     "Event": "nan",
-    "Venue": "Pala Alpitour",
-    "Location": "Turin,Italy",
-    "Latitude": "45.0677551",
-    "Longitude": "7.6824892",
+    "Venue": "Palau Sant Jordi",
+    "Location": "Barcelona,Spain",
+    "Latitude": "41.3828939",
+    "Longitude": "2.1774322",
     "Is_cancelled": "No",
     "Tour": "WorldWired",
     "Other_acts": "Kvelertak",
     "Concert_details": "nan",
-    "Concert_profile_link": "https://www.metallica.com/tour/2018-02-10-turin-italy.html",
+    "Concert_profile_link": "https://www.metallica.com/tour/2018-02-07-barcelona-spain.html",
     "Songs": "nan"
 }
