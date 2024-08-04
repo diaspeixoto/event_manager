@@ -1,5 +1,0 @@
-Flask
-SQLAlchemy
-pymongo
-pandas
-sqlalchemy
