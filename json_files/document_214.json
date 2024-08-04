@@ -1,0 +1,16 @@
+{
+    "event_id": 214,
+    "Date": "2022-07-28",
+    "main_attraction": "Metallica",
+    "Event": "Lollapalooza",
+    "Venue": "Grant Park",
+    "Location": "Chicago,Illinois,United States",
+    "Latitude": "41.8755616",
+    "Longitude": "-87.6244212",
+    "Is_cancelled": "No",
+    "Tour": "nan",
+    "Other_acts": "nan",
+    "Concert_details": "nan",
+    "Concert_profile_link": "https://www.metallica.com/tour/2022-07-28-chicago-illinois.html",
+    "Songs": "Whiplash, Creeping Death, Enter Sandman, The Memory Remains, Wherever I May Roam, Nothing Else Matters, Dirty Window, Sad But True, Whiskey in the Jar, For Whom the Bell Tolls, Moth Into Flame, Fade to Black, Seek & Destroy, Battery, One, Master of Puppets"
+}

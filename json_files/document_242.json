@@ -1,0 +1,16 @@
+{
+    "event_id": 242,
+    "Date": "2023-10-08",
+    "main_attraction": "Metallica",
+    "Event": "Power Trip",
+    "Venue": "Empire Polo Club",
+    "Location": "Indio,California,United States",
+    "Latitude": "33.74389845",
+    "Longitude": "-116.1970542100473",
+    "Is_cancelled": "No",
+    "Tour": "M72 World Tour",
+    "Other_acts": "Tool",
+    "Concert_details": "nan",
+    "Concert_profile_link": "https://www.metallica.com/tour/2023-10-08-indio-california.html",
+    "Songs": "Whiplash, Creeping Death, For Whom the Bell Tolls, Enter Sandman, Lux \u00c6terna, Too Far Gone?, Fade to Black, Fuel, Orion, Nothing Else Matters, Sad But True, The Day That Never Comes, Hardwired, Seek & Destroy, One, Master of Puppets"
+}
