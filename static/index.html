@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Event Manager</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            background-color: #007bff;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+            margin: 0;
+        }
+        .event-count {
+            text-align: center;
+            margin: 20px 0;
+            color: #333;
+        }
+        .event-row {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        .event-item {
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            flex: 0 1 45%;
+            margin: 0 10px;
+            padding: 20px;
+            text-align: center;
+            transition: transform 0.2s;
+        }
+        .event-item:hover {
+            transform: scale(1.05);
+        }
+        .event-info {
+            margin-bottom: 10px;
+        }
+        .event-info h3 {
+            margin: 0 0 10px 0;
+            color: #007bff;
+        }
+        .event-info p {
+            margin: 0;
+            color: #666;
+        }
+        button {
+            background-color: #007bff;
+            border: none;
+            border-radius: 4px;
+            color: #ffffff;
+            cursor: pointer;
+            padding: 10px 20px;
+            text-transform: uppercase;
+            transition: background-color 0.2s;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Event Manager</h1>
+    <div id="event-count" class="event-count">
+        <!-- Event count will be dynamically inserted here -->
+    </div>
+    <div id="events">
+        <!-- Events will be dynamically inserted here -->
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            fetch('/events')
+                .then(response => response.json())
+                .then(events => {
+                    const eventsContainer = document.getElementById('events');
+                    const eventCountContainer = document.getElementById('event-count');
+
+                    // Display event count
+                    eventCountContainer.innerHTML = `<h2>Events: ${events.length}</h2>`;
+                    
+                    let eventRow;
+                    events.forEach((event, index) => {
+                        if (index % 2 === 0) {
+                            eventRow = document.createElement('div');
+                            eventRow.className = 'event-row';
+                            eventsContainer.appendChild(eventRow);
+                        }
+
+                        const eventItem = document.createElement('div');
+                        eventItem.className = 'event-item';
+
+                        eventItem.innerHTML = `
+                            <div class="event-info">
+                                <h3>${event.main_attraction}</h3>
+                                <p>City: ${event.City}</p>
+                                <p>When: ${event.Date}</p>
+                            </div>
+                            <button onclick="showEventDetail('${event._id}')">Details</button>`;
+                        
+                        eventRow.appendChild(eventItem);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error fetching events:', error);
+                });
+        });
+
+        function showEventDetail(eventId) {
+            window.location.href = `static/event_detail.html?_id=${eventId}`;
+        }
+    </script>
+</body>
+</html>
