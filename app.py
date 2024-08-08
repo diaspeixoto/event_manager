@@ -1,11 +1,8 @@
-from flask import Flask, jsonify
+from flask import Flask, jsonify, send_from_directory
 from utils.database import db, mongo_db, init_db
 from utils.data_loader import load_initial_data
 from routes.participant_routes import participant_bp
 from routes.event_routes import event_bp
-from sqlalchemy.orm import sessionmaker
-from flask_sqlalchemy import SQLAlchemy
-from flask_pymongo import PyMongo
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:1234@localhost:5432/events'
@@ -18,6 +15,11 @@ init_db(app)
 # Register blueprints
 app.register_blueprint(participant_bp)
 app.register_blueprint(event_bp)
+
+@app.route('/')
+def serve_frontend():
+    return send_from_directory('static', 'index.html')
+
 
 @app.route('/load_initial_data', methods=['POST'])
 def load_initial_data_route():

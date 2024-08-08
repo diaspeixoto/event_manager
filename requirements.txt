@@ -1,5 +1,8 @@
 Flask
-SQLAlchemy
+flask
+flask_sqlalchemy
 pymongo
 pandas
 sqlalchemy
+flask_pymongo
+psycopg2

@@ -2,6 +2,7 @@ import pandas as pd
 from models import Participant, Ticket
 from utils.database import db, mongo_db
 from sqlalchemy.exc import SQLAlchemyError
+from sqlalchemy.orm import joinedload
 import os
 
 def load_events_from_json(file_path):
