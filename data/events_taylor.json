@@ -5,7 +5,7 @@
         "City": "Glendale",
         "Country": "United States",
         "Venue": "University of Phoenix Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "59,157 / 59,157",
         "Revenue": "$7,214,478",
         "Tour": "Reputation_Stadium_Tour"
@@ -16,7 +16,7 @@
         "City": "Santa Clara",
         "Country": "United States",
         "Venue": "Levi's Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "107,550 / 107,550",
         "Revenue": "$14,006,963",
         "Tour": "Reputation_Stadium_Tour"
@@ -27,7 +27,7 @@
         "City": "Santa Clara",
         "Country": "United States",
         "Venue": "Levi's Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "107,550 / 107,550",
         "Revenue": "$14,006,963",
         "Tour": "Reputation_Stadium_Tour"
@@ -38,7 +38,7 @@
         "City": "Pasadena",
         "Country": "United States",
         "Venue": "Rose Bowl",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "118,084 / 118,084",
         "Revenue": "$16,251,980",
         "Tour": "Reputation_Stadium_Tour"
@@ -49,7 +49,7 @@
         "City": "Pasadena",
         "Country": "United States",
         "Venue": "Rose Bowl",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "118,084 / 118,084",
         "Revenue": "$16,251,980",
         "Tour": "Reputation_Stadium_Tour"
@@ -60,7 +60,7 @@
         "City": "Seattle",
         "Country": "United States",
         "Venue": "CenturyLink Field",
-        "Opening act(s)": "Charli XCX",
+        "Other_acts": "Charli XCX",
         "Attendance (tickets sold / available)": "56,021 / 56,021",
         "Revenue": "$8,672,219",
         "Tour": "Reputation_Stadium_Tour"
@@ -71,7 +71,7 @@
         "City": "Denver",
         "Country": "United States",
         "Venue": "Sports Authority Field at Mile High",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "57,140 / 57,140",
         "Revenue": "$7,926,366",
         "Tour": "Reputation_Stadium_Tour"
@@ -82,7 +82,7 @@
         "City": "Chicago",
         "Country": "United States",
         "Venue": "Soldier Field",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "105,208 / 105,208",
         "Revenue": "$14,576,697",
         "Tour": "Reputation_Stadium_Tour"
@@ -93,7 +93,7 @@
         "City": "Chicago",
         "Country": "United States",
         "Venue": "Soldier Field",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "105,208 / 105,208",
         "Revenue": "$14,576,697",
         "Tour": "Reputation_Stadium_Tour"
@@ -104,7 +104,7 @@
         "City": "Manchester",
         "Country": "England",
         "Venue": "Etihad Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "77,258 / 77,258",
         "Revenue": "$6,169,724",
         "Tour": "Reputation_Stadium_Tour"
@@ -115,7 +115,7 @@
         "City": "Manchester",
         "Country": "England",
         "Venue": "Etihad Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "77,258 / 77,258",
         "Revenue": "$6,169,724",
         "Tour": "Reputation_Stadium_Tour"
@@ -126,7 +126,7 @@
         "City": "Dublin",
         "Country": "Ireland",
         "Venue": "Croke Park",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "133,034 / 133,034",
         "Revenue": "$8,567,769",
         "Tour": "Reputation_Stadium_Tour"
@@ -137,7 +137,7 @@
         "City": "Dublin",
         "Country": "Ireland",
         "Venue": "Croke Park",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "133,034 / 133,034",
         "Revenue": "$8,567,769",
         "Tour": "Reputation_Stadium_Tour"
@@ -148,7 +148,7 @@
         "City": "London",
         "Country": "England",
         "Venue": "Wembley Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "143,427 / 143,427",
         "Revenue": "$12,214,933",
         "Tour": "Reputation_Stadium_Tour"
@@ -159,7 +159,7 @@
         "City": "London",
         "Country": "England",
         "Venue": "Wembley Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "143,427 / 143,427",
         "Revenue": "$12,214,933",
         "Tour": "Reputation_Stadium_Tour"
@@ -170,7 +170,7 @@
         "City": "Louisville",
         "Country": "United States",
         "Venue": "Cardinal Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "52,138 / 52,138",
         "Revenue": "$4,928,219",
         "Tour": "Reputation_Stadium_Tour"
@@ -181,7 +181,7 @@
         "City": "Columbus",
         "Country": "United States",
         "Venue": "Ohio Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "62,897 / 62,897",
         "Revenue": "$6,606,529",
         "Tour": "Reputation_Stadium_Tour"
@@ -192,7 +192,7 @@
         "City": "Landover",
         "Country": "United States",
         "Venue": "FedExField",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "95,672 / 95,672",
         "Revenue": "$11,396,004",
         "Tour": "Reputation_Stadium_Tour"
@@ -203,7 +203,7 @@
         "City": "Landover",
         "Country": "United States",
         "Venue": "FedExField",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "95,672 / 95,672",
         "Revenue": "$11,396,004",
         "Tour": "Reputation_Stadium_Tour"
@@ -214,7 +214,7 @@
         "City": "Philadelphia",
         "Country": "United States",
         "Venue": "Lincoln Financial Field",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "107,378 / 107,378",
         "Revenue": "$11,951,047",
         "Tour": "Reputation_Stadium_Tour"
@@ -225,7 +225,7 @@
         "City": "Philadelphia",
         "Country": "United States",
         "Venue": "Lincoln Financial Field",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "107,378 / 107,378",
         "Revenue": "$11,951,047",
         "Tour": "Reputation_Stadium_Tour"
@@ -236,7 +236,7 @@
         "City": "Cleveland",
         "Country": "United States",
         "Venue": "FirstEnergy Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "51,323 / 51,323",
         "Revenue": "$5,148,757",
         "Tour": "Reputation_Stadium_Tour"
@@ -247,7 +247,7 @@
         "City": "East Rutherford",
         "Country": "United States",
         "Venue": "MetLife Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "165,654 / 165,654",
         "Revenue": "$22,031,386",
         "Tour": "Reputation_Stadium_Tour"
@@ -258,7 +258,7 @@
         "City": "East Rutherford",
         "Country": "United States",
         "Venue": "MetLife Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "165,654 / 165,654",
         "Revenue": "$22,031,386",
         "Tour": "Reputation_Stadium_Tour"
@@ -269,7 +269,7 @@
         "City": "East Rutherford",
         "Country": "United States",
         "Venue": "MetLife Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "165,654 / 165,654",
         "Revenue": "$22,031,386",
         "Tour": "Reputation_Stadium_Tour"
@@ -280,7 +280,7 @@
         "City": "Foxborough",
         "Country": "United States",
         "Venue": "Gillette Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "174,764 / 174,764",
         "Revenue": "$21,779,846",
         "Tour": "Reputation_Stadium_Tour"
@@ -291,7 +291,7 @@
         "City": "Foxborough",
         "Country": "United States",
         "Venue": "Gillette Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "174,764 / 174,764",
         "Revenue": "$21,779,846",
         "Tour": "Reputation_Stadium_Tour"
@@ -302,7 +302,7 @@
         "City": "Foxborough",
         "Country": "United States",
         "Venue": "Gillette Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "174,764 / 174,764",
         "Revenue": "$21,779,846",
         "Tour": "Reputation_Stadium_Tour"
@@ -313,7 +313,7 @@
         "City": "Toronto",
         "Country": "Canada",
         "Venue": "Rogers Centre",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "100,310 / 100,310",
         "Revenue": "$11,177,000",
         "Tour": "Reputation_Stadium_Tour"
@@ -324,7 +324,7 @@
         "City": "Toronto",
         "Country": "Canada",
         "Venue": "Rogers Centre",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "100,310 / 100,310",
         "Revenue": "$11,177,000",
         "Tour": "Reputation_Stadium_Tour"
@@ -335,7 +335,7 @@
         "City": "Pittsburgh",
         "Country": "United States",
         "Venue": "Heinz Field",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "56,445 / 56,445",
         "Revenue": "$6,230,876",
         "Tour": "Reputation_Stadium_Tour"
@@ -346,7 +346,7 @@
         "City": "Atlanta",
         "Country": "United States",
         "Venue": "Mercedes-Benz Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "116,746 / 116,746",
         "Revenue": "$18,089,415",
         "Tour": "Reputation_Stadium_Tour"
@@ -357,7 +357,7 @@
         "City": "Atlanta",
         "Country": "United States",
         "Venue": "Mercedes-Benz Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "116,746 / 116,746",
         "Revenue": "$18,089,415",
         "Tour": "Reputation_Stadium_Tour"
@@ -368,7 +368,7 @@
         "City": "Tampa",
         "Country": "United States",
         "Venue": "Raymond James Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "55,909 / 55,909",
         "Revenue": "$7,244,264",
         "Tour": "Reputation_Stadium_Tour"
@@ -379,7 +379,7 @@
         "City": "Miami Gardens",
         "Country": "United States",
         "Venue": "Hard Rock Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "47,818 / 47,818",
         "Revenue": "$7,072,164",
         "Tour": "Reputation_Stadium_Tour"
@@ -390,7 +390,7 @@
         "City": "Nashville",
         "Country": "United States",
         "Venue": "Nissan Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "56,112 / 56,112",
         "Revenue": "$9,007,179",
         "Tour": "Reputation_Stadium_Tour"
@@ -401,7 +401,7 @@
         "City": "Detroit",
         "Country": "United States",
         "Venue": "Ford Field",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "49,464 / 49,464",
         "Revenue": "$6,597,852",
         "Tour": "Reputation_Stadium_Tour"
@@ -412,7 +412,7 @@
         "City": "Minneapolis",
         "Country": "United States",
         "Venue": "U.S. Bank Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "98,774 / 98,774",
         "Revenue": "$10,242,024",
         "Tour": "Reputation_Stadium_Tour"
@@ -423,7 +423,7 @@
         "City": "Minneapolis",
         "Country": "United States",
         "Venue": "U.S. Bank Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "98,774 / 98,774",
         "Revenue": "$10,242,024",
         "Tour": "Reputation_Stadium_Tour"
@@ -434,7 +434,7 @@
         "City": "Kansas City",
         "Country": "United States",
         "Venue": "Arrowhead Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "58,611 / 58,611",
         "Revenue": "$6,730,138",
         "Tour": "Reputation_Stadium_Tour"
@@ -445,7 +445,7 @@
         "City": "Indianapolis",
         "Country": "United States",
         "Venue": "Lucas Oil Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "55,729 / 55,729",
         "Revenue": "$6,531,245",
         "Tour": "Reputation_Stadium_Tour"
@@ -456,7 +456,7 @@
         "City": "St. Louis",
         "Country": "United States",
         "Venue": "The Dome at America's Center",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "47,831 / 47,831",
         "Revenue": "$4,884,054",
         "Tour": "Reputation_Stadium_Tour"
@@ -467,7 +467,7 @@
         "City": "New Orleans",
         "Country": "United States",
         "Venue": "Mercedes-Benz Superdome",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "53,172 / 53,172",
         "Revenue": "$6,491,546",
         "Tour": "Reputation_Stadium_Tour"
@@ -478,7 +478,7 @@
         "City": "Houston",
         "Country": "United States",
         "Venue": "NRG Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "53,800 / 53,800",
         "Revenue": "$9,350,275",
         "Tour": "Reputation_Stadium_Tour"
@@ -489,7 +489,7 @@
         "City": "Arlington",
         "Country": "United States",
         "Venue": "AT&T Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "105,002 / 105,002",
         "Revenue": "$15,006,157",
         "Tour": "Reputation_Stadium_Tour"
@@ -500,7 +500,7 @@
         "City": "Arlington",
         "Country": "United States",
         "Venue": "AT&T Stadium",
-        "Opening act(s)": "Camila Cabello\nCharli XCX",
+        "Other_acts": "Camila Cabello\nCharli XCX",
         "Attendance (tickets sold / available)": "105,002 / 105,002",
         "Revenue": "$15,006,157",
         "Tour": "Reputation_Stadium_Tour"
@@ -511,7 +511,7 @@
         "City": "Perth",
         "Country": "Australia",
         "Venue": "Optus Stadium",
-        "Opening act(s)": "Charli XCX\nBroods",
+        "Other_acts": "Charli XCX\nBroods",
         "Attendance (tickets sold / available)": "50,891 / 50,891",
         "Revenue": "$4,153,658",
         "Tour": "Reputation_Stadium_Tour"
@@ -522,7 +522,7 @@
         "City": "Melbourne",
         "Country": "Australia",
         "Venue": "Marvel Stadium",
-        "Opening act(s)": "Charli XCX\nBroods",
+        "Other_acts": "Charli XCX\nBroods",
         "Attendance (tickets sold / available)": "63,027 / 63,027",
         "Revenue": "$6,755,570",
         "Tour": "Reputation_Stadium_Tour"
@@ -533,7 +533,7 @@
         "City": "Sydney",
         "Country": "Australia",
         "Venue": "ANZ Stadium",
-        "Opening act(s)": "Charli XCX\nBroods",
+        "Other_acts": "Charli XCX\nBroods",
         "Attendance (tickets sold / available)": "72,805 / 72,805",
         "Revenue": "$7,686,564",
         "Tour": "Reputation_Stadium_Tour"
@@ -544,7 +544,7 @@
         "City": "Brisbane",
         "Country": "Australia",
         "Venue": "The Gabba",
-        "Opening act(s)": "Charli XCX\nBroods",
+        "Other_acts": "Charli XCX\nBroods",
         "Attendance (tickets sold / available)": "43,907 / 43,907",
         "Revenue": "$4,338,127",
         "Tour": "Reputation_Stadium_Tour"
@@ -555,7 +555,7 @@
         "City": "Auckland",
         "Country": "New Zealand",
         "Venue": "Mount Smart Stadium",
-        "Opening act(s)": "Charli XCX\nBroods",
+        "Other_acts": "Charli XCX\nBroods",
         "Attendance (tickets sold / available)": "35,749 / 35,749",
         "Revenue": "$3,617,593",
         "Tour": "Reputation_Stadium_Tour"
@@ -566,7 +566,7 @@
         "City": "Tokyo",
         "Country": "Japan",
         "Venue": "Tokyo Dome",
-        "Opening act(s)": "Charli XCX",
+        "Other_acts": "Charli XCX",
         "Attendance (tickets sold / available)": "100,109 / 100,109",
         "Revenue": "$14,859,847",
         "Tour": "Reputation_Stadium_Tour"
@@ -577,7 +577,7 @@
         "City": "Tokyo",
         "Country": "Japan",
         "Venue": "Tokyo Dome",
-        "Opening act(s)": "Charli XCX",
+        "Other_acts": "Charli XCX",
         "Attendance (tickets sold / available)": "100,109 / 100,109",
         "Revenue": "$14,859,847",
         "Tour": "Reputation_Stadium_Tour"
